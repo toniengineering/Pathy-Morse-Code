@@ -1,0 +1,13 @@
+Info: X scale constrained.
+Info: Y scale constrained.
+Plotted to 'C:\Users\naf-student\OneDrive\Documents\first_pcb\_restore_backup_2026-05-19T09-18-37-157\pathfinder\pathfinder-F_Cu.gbr'.
+Plotted to 'C:\Users\naf-student\OneDrive\Documents\first_pcb\_restore_backup_2026-05-19T09-18-37-157\pathfinder\pathfinder-B_Cu.gbr'.
+Plotted to 'C:\Users\naf-student\OneDrive\Documents\first_pcb\_restore_backup_2026-05-19T09-18-37-157\pathfinder\pathfinder-F_Paste.gbr'.
+Plotted to 'C:\Users\naf-student\OneDrive\Documents\first_pcb\_restore_backup_2026-05-19T09-18-37-157\pathfinder\pathfinder-B_Paste.gbr'.
+Plotted to 'C:\Users\naf-student\OneDrive\Documents\first_pcb\_restore_backup_2026-05-19T09-18-37-157\pathfinder\pathfinder-F_Silkscreen.gbr'.
+Plotted to 'C:\Users\naf-student\OneDrive\Documents\first_pcb\_restore_backup_2026-05-19T09-18-37-157\pathfinder\pathfinder-B_Silkscreen.gbr'.
+Plotted to 'C:\Users\naf-student\OneDrive\Documents\first_pcb\_restore_backup_2026-05-19T09-18-37-157\pathfinder\pathfinder-F_Mask.gbr'.
+Plotted to 'C:\Users\naf-student\OneDrive\Documents\first_pcb\_restore_backup_2026-05-19T09-18-37-157\pathfinder\pathfinder-B_Mask.gbr'.
+Plotted to 'C:\Users\naf-student\OneDrive\Documents\first_pcb\_restore_backup_2026-05-19T09-18-37-157\pathfinder\pathfinder-Edge_Cuts.gbr'.
+Created Gerber job file 'C:\Users\naf-student\OneDrive\Documents\first_pcb\_restore_backup_2026-05-19T09-18-37-157\pathfinder\pathfinder-job.gbrjob'.
+Info: Done.
