@@ -12,3 +12,5 @@ BOM:
 1, Xiao rp2024
 
 5, LEDs, 5mm
+
+5, 220, resistors
