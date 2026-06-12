@@ -1,7 +1,7 @@
 [convertcsv.md](https://github.com/user-attachments/files/28859213/convertcsv.md)# Pathy-Morse-Code
 Pathy is a small morse code device used to blink morse code with the click of a button. I wanted to try learning morse code a bit and having buttons where I can look at the light and whether it was a long blink or small blink I should be able to translate it. Also having a couple of premade buttons sounded cool like yes and no, they are always used and quick to learn. I decided to do a project like this because of how much I know how to code and I have not worked with pcbs before so I mostly wanted this to be about the pcbs design.
 <img width="756" height="687" alt="Screenshot 2026-06-11 203135" src="https://github.com/user-attachments/assets/70c5eefd-4af3-4eb4-abe4-b86b0a07f635" />
-<img width="869" height="720" alt="Screenshot 2026-06-11 194559" src="https://github.com/user-attachments/assets/209d88c2-6a81-4f54-9010-a144cfea8bda" />
+<img width="1347" height="593" alt="Screenshot 2026-06-10 234357" src="https://github.com/user-attachments/assets/1af939df-45f6-4aca-ba50-7026b6c3ea61" />
 <img width="1056" height="734" alt="Screenshot 2026-06-11 203059" src="https://github.com/user-attachments/assets/41ea8ee1-df55-4b12-9ca6-87c671572471" />
 
 BOM:
