@@ -3,6 +3,10 @@ Pathy is a small morse code device used to blink morse code with the click of a 
 <img width="837" height="738" alt="Screenshot 2026-06-11 204306" src="https://github.com/user-attachments/assets/801d0d47-5121-4277-b4a4-7ba207302ae6" />
 <img width="1037" height="744" alt="Screenshot 2026-06-11 204200" src="https://github.com/user-attachments/assets/d868c718-c91e-49db-a02f-a41274d458d0" />
 <img width="1347" height="593" alt="Screenshot 2026-06-10 234357" src="https://github.com/user-attachments/assets/1af939df-45f6-4aca-ba50-7026b6c3ea61" />
+<img width="3024" height="4032" alt="IMG_2062" src="https://github.com/user-attachments/assets/73bd3b3b-a590-41b5-b09b-f87a21aeda3b" />
+<img width="3024" height="4032" alt="IMG_2068" src="https://github.com/user-attachments/assets/8cf9e056-fe74-4285-9d10-3706f43c0013" />
+<img width="3024" height="4032" alt="IMG_2063" src="https://github.com/user-attachments/assets/a8add782-e843-4b8f-9cce-c0a2e85f397c" />
+
 
 BOM:
 
