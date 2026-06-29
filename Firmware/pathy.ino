@@ -1,15 +1,15 @@
-int BUT1 = D0;
-int BUT2 = D1;
-int BUT3 = D2;
-int BUT4 = D8;
-int BUT5 = D9;
+#define BUT1 D0
+#define BUT2 D1
+#define BUT3 D2
+#define BUT4 D8
+#define BUT5 D9
 
 
-int LED1 = D3;
-int LED2 = D4;
-int LED3 = D5;
-int LED4 = D6;
-int LED5 = D7;
+#define LED1 D3
+#define LED2 D4
+#define LED3 D5
+#define LED4 D6
+#define LED5 D7
 
 void setup() {
 pinMode(BUT1, INPUT_PULLUP);
@@ -29,7 +29,7 @@ pinMode(LED5, OUTPUT);
 
 void loop() {
   //small dash
- if (digitalRead(BUT1) == HIGH) {
+ if (digitalRead(BUT1) == LOW) {
  digitalWrite(LED1, HIGH);
  delay(500);
  digitalWrite(LED1, LOW);
@@ -37,7 +37,7 @@ void loop() {
  }
  // long dash
  if
- (digitalRead(BUT2) == HIGH) {
+ (digitalRead(BUT2) == LOW) {
  digitalWrite(LED2, HIGH);
  delay(1000);
  digitalWrite(LED2, LOW);
@@ -45,7 +45,7 @@ void loop() {
  }
  //s
  if 
-  (digitalRead(BUT3) == HIGH) {
+  (digitalRead(BUT3) == LOW) {
  digitalWrite(LED3, HIGH);
  delay(500);
  digitalWrite(LED3, LOW);
@@ -72,7 +72,7 @@ digitalWrite(LED3, HIGH);
  digitalWrite(LED3, LOW);
  delay(500);
  //s
- (digitalRead(BUT3) == HIGH) ;
+ (digitalRead(BUT3) == LOW) ;
  digitalWrite(LED3, HIGH);
  delay(500);
  digitalWrite(LED3, LOW);
@@ -88,7 +88,7 @@ digitalWrite(LED3, HIGH);
   }
  //yes
 if
-  (digitalRead(BUT4) == HIGH) {
+  (digitalRead(BUT4) == LOW) {
  digitalWrite(LED4, HIGH);
  delay(1000);
  digitalWrite(LED4, LOW);
@@ -125,7 +125,7 @@ if
  
  //no
 if
-  (digitalRead(BUT5) == HIGH) {
+  (digitalRead(BUT5) == LOW) {
  digitalWrite(LED5, HIGH);
  delay(1000);
  digitalWrite(LED5, LOW);
@@ -147,5 +147,14 @@ if
  digitalWrite(LED5, LOW);
  delay(500);
 }
+
+else{
+  digitalWrite(LED1, LOW);
+  digitalWrite(LED2, LOW);
+  digitalWrite(LED3, LOW);
+  digitalWrite(LED4, LOW);
+  digitalWrite(LED5, LOW);
+}
+
 }
 
